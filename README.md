@@ -1,5 +1,9 @@
 # unnamed-project
 
+## Ideas
+
+- Application that gives you music based on your mood (mood-music)
+
 ## Technologies that will be used
 
 Backend:
